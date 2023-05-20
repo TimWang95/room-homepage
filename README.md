@@ -9,8 +9,8 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 
 ## Links
 
-- Solution URL: [GitHub repo]()
-- Live Site URL: [solution Demo]()
+- Solution URL: [GitHub repo](https://github.com/TimWang95/room-homepage)
+- Live Site URL: [solution Demo](https://main--radiant-dusk-efc6d4.netlify.app/#home)
 
 
 ## Built with
