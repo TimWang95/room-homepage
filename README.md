@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Frontend Mentor - Room homepage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Insure landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8). 
 
-## Available Scripts
+## Screenshot
 
-In the project directory, you can run:
+![screenshot1](./public/screenshot.gif)
+![screenshot2](./public/screenshot2.png)
 
-### `npm start`
+## Links
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Solution URL: [GitHub repo]()
+- Live Site URL: [solution Demo]()
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Built with
+- ![REACT](https://camo.githubusercontent.com/23ffa6f1c3fd28afe74a4aef1de92971625bcefaecb3b241ad8d57a63f9dc823/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333430346435393f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374)
+- ![SASS](https://camo.githubusercontent.com/8849f369ac031cc842a4ab4248c7f7db6a4b593cad1f2d1c01d3aeb6f0f8dca7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## What I Learnd
+- Using useState to control the navbar menu and products index.
+- Using `window.innerWidth` gets the inner width of the window.
 
-### `npm run build`
+## Author
+- [![My GitHub](https://camo.githubusercontent.com/843009ef549f1199c4d4682e94d2afa964a6e6b156669d2f823a949bdc3ae027/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47697468756225323050726f66696c652d3133313331333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](https://github.com/TimWang95)
+- [![@TimWang95](https://camo.githubusercontent.com/1ee177622c1f9c0a437d6bc2e1680ba9ee19632f4b3b5c29e24b71544f9850ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46454d25323050726f66696c652d6638663966383f7374796c653d666f722d7468652d6261646765266c6f676f3d46726f6e74656e642d4d656e746f72266c6f676f436f6c6f723d626c61636b)](https://www.frontendmentor.io/profile/TimWang95)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Acknowledgments
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Challenge was provided by [Frontend Mentor](https://www.frontendmentor.io/home)
